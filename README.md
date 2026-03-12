@@ -68,8 +68,11 @@ The dataset contains around **9,994 sales records** including:
 
 ## Dashboard Preview
 
-(Add screenshots here after upload)
+![Dashboard](dashboard_page1.png)
+
+![Dashboard](dashboard_page2.png)
 
 ## Author
 
-Data Analyst Portfolio Project
+Dhanushya S
+
